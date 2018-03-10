@@ -1,5 +1,6 @@
 //use fetch api to access the quote
-
+// change twitter tag -- modify it
+//change the css of the page
 const quotes = [
   {
     "quote": "You can avoid reality, but you cannot avoid the consequences of avoiding reality.",
